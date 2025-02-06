@@ -101,7 +101,7 @@ Feel free to fork the repo, make improvements, and submit a pull request!
 
 ---
 
-![alt text](Screenshot (4).png)
+[alt text](Screenshot (4).png)
 
 ### 🚀 Happy Coding! 🔥
 
